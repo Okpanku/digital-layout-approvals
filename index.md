@@ -19,7 +19,7 @@
 📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(update this with your link)*  
 📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)
 
-![eBook Cover](./ebook_cover.png)
+![eBook Cover](./E-book-cover.PNG)
 
 ---
 

@@ -15,7 +15,8 @@
 
 ---
 
-📥 [**Download Free Chapter Preview**](./Digital_Layout_Approvals_Chapter2_and_Marketing_Blurb.docx)  
+📘 **Read Chapter 2 preview:**  
+👉 [Chapter 2: Why Digitizing Layouts Matters](Digital_Layout_Approvals_Chapter2.md)
 📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(E-book Coming Out Soon!!)*  
 <!--📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)-->
 

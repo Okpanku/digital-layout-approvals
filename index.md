@@ -16,8 +16,8 @@
 ---
 
 📥 [**Download Free Chapter Preview**](./Digital_Layout_Approvals_Chapter2_and_Marketing_Blurb.docx)  
-📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(update this with your link)*  
-📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)
+📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(E-book Coming Out Soon!!)*  
+<!--📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)-->
 
 ![eBook Cover](./E-book-cover.PNG)
 

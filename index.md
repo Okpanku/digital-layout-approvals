@@ -20,7 +20,9 @@
 
 📘 [**View Full Table of Contents**](Digital_Layout_Approvals_Table_of_Contents.md)
 
-📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(E-book Coming Out Soon!!)*  
+📚 [**Buy Full eBook**] <a href="https://wa.me/2348012345678?text=Hello%2C%20I'm%20interested%20in%20the%20Digital%20Layout%20Approvals%20eBook.%20Please%20share%20more%20details." target="_blank">
+  Buy Full eBook
+</a> *(E-book Coming Out Soon!!)*  
 <!--📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)-->
 
 ![eBook Cover](./E-book-cover.PNG)

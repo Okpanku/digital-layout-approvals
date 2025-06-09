@@ -21,6 +21,6 @@
 | **10** | Tracking Edits with Audit Logs |
 | **11** | Generating Print Layouts and Certificates |
 | **12** | Using the System to Improve Internally Generated Revenue (IGR) |
-| **13** | Case Studies from Abia State and Beyond |
+| **13** | Potential Use Cases and Lessons from Similar GIS Initiatives |
 | **14** | How to Train Staff and Institutionalize the Workflow |
 | **15** | How to Offer This as a Paid Service to LGAs and Developers |

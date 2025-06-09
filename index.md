@@ -19,6 +19,7 @@
 👉 [Chapter 2: Why Digitizing Layouts Matters](Digital_Layout_Approvals_Chapter2.md)
 
 📘 [**View Full Table of Contents**](Digital_Layout_Approvals_Table_of_Contents.md)
+
 📚 [**Buy Full eBook**](https://selar.co/YOUR-EBOOK-LINK) *(E-book Coming Out Soon!!)*  
 <!--📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)-->
 

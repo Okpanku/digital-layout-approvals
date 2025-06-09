@@ -16,13 +16,13 @@
 ---
 
 📘 **Read Chapter 2 preview:**  
-👉 [Chapter 2: Why Digitizing Layouts Matters](Digital_Layout_Approvals_Chapter2.md)
+👉 [**Chapter 2: Why Digitizing Layouts Matters**](Digital_Layout_Approvals_Chapter2.md)
 
 📘 [**View Full Table of Contents**](Digital_Layout_Approvals_Table_of_Contents.md)
 
-📚 <a href="https://wa.me/2348012345678?text=Hello%2C%20I'm%20interested%20in%20the%20Digital%20Layout%20Approvals%20eBook.%20Please%20share%20more%20details." target="_blank">
-  Buy Full eBook
-</a> *(E-book Coming Out Soon!!)*  
+📚 <a href="https://wa.me/2348131252013?text=Hello%2C%20I'm%20interested%20in%20the%20Digital%20Layout%20Approvals%20eBook.%20Please%20share%20more%20details." target="_blank">
+  [**Buy Full eBook**]
+</a> *(eBook Coming Out Soon!!)*  
 <!--📦 [**Visit Full Portfolio**](https://github.com/Okpanku/portfolio_page)-->
 
 ![eBook Cover](./E-book-cover.PNG)

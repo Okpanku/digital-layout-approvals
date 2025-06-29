@@ -1,0 +1,7 @@
+title: Digital Layout Approvals
+description: A Practical Guide for Nigerian Urban Planners
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
